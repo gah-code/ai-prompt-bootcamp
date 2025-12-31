@@ -208,4 +208,4 @@ If you encounter issues:
 
 ---
 
-Happy experimenting.
+Happy Studying.
