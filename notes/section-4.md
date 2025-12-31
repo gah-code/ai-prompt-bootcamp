@@ -1,4 +1,4 @@
-## Section 4: Standard Text Model Practices
+# Section 4: Standard Text Model Practices
 
 ## Standard Text Model Practices — Advanced Prompting Patterns
 

@@ -1,4 +1,3 @@
-
 # AI Prompt Bootcamp — Local Lab Starter
 
 A lightweight, hands-on starter repository for an **AI Prompt Engineering Bootcamp**.
@@ -32,15 +31,24 @@ Learning practical coding skills for working professionally with AI, including G
 ```text
 ai-prompt-bootcamp/
 ├── notebooks/
-│   ├── 00_lab_sanity_test.ipynb   # Verify local environment
-│   └── 01_prompt_lab.ipynb        # Core prompt experiments
+│   ├── 00_lab_sanity_test first.ipynb   # Sanity test - verify local environment
+│   ├── 01-prompt-lab.ipynb              # Prompt lab - core prompt experiments
+│   ├── core_features_walkthrough.ipynb  # Core walkthrough - guided feature tour
+│   └── responses_api_and_messages.ipynb # Responses API - messages and handling
 ├── src/
-│   └── prompt_utils.py            # Shared prompt helpers
-├── requirements.txt               # Python dependencies
-├── .env.example                   # Environment variable template
-├── .gitignore
-└── README.md
-````
+│   └── prompt_utils.py                  # Prompt utilities - shared helpers
+├── requirements.txt                     # Dependencies - Python package list
+├── anaconda_projects/
+│   └── db/                              # Database files - Anaconda project assets
+├── notes/
+│   ├── section-1.md                     # Prompting principles - five core principles
+│   ├── section-2.md                     # LLM foundations - tokens, hallucinations, model types
+│   ├── section-3.md                     # ChatGPT platform - tools, modes, workflows
+│   └── section-4.md                     # Text model practices - advanced prompting patterns
+├── .env.example                         # Environment template - sample variables
+├── .gitignore                           # Git ignore - excluded files
+└── README.md                            # Project overview - setup and usage
+```
 
 ---
 
