@@ -22,6 +22,7 @@ Learning practical coding skills for working professionally with AI, including G
 - **Jupyter Lab**
 - **OpenAI API**
 - **LangChain** (introduced progressively)
+- **ChatGPT Codex** (used as a study buddy)
 - **GitHub Copilot** (used as a learning companion)
 
 ---
